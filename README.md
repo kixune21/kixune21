@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @kixune21
+- 🦿 I’m interested in game development, artificial intelligence and bioengineering.
+- 🌱 I’m currently learning Ruby
